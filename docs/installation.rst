@@ -10,3 +10,6 @@ GASING
 ========
 
 This could be a template for all the project documentation.
+.. image:: image/filename.png
+  :width: 400
+  :alt: Alternative text
