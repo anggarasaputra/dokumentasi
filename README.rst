@@ -3,13 +3,13 @@ Template
 
 This could be a template for all the project documentation.
 
-System Design Considerations
-----------
+    System Design Considerations
+    ========
 Hold for system design docs
 
 
-User Auth 
-------
+    User Auth 
+    ------
 Place holder for User Auth documentation.
 `
 code snippet
