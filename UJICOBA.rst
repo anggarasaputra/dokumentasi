@@ -1,4 +1,4 @@
-Template
+GASING
 ========
 
 This could be a template for all the project documentation.
@@ -8,9 +8,8 @@ System Design Considerations
 Hold for system design docs
 
 
-========
-Usage
-========
+User Auth 
+------
 Place holder for User Auth documentation.
 `
 code snippet
